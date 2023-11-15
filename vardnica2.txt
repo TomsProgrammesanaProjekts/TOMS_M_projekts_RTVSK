@@ -1,0 +1,4 @@
+viens=one
+divi=two
+trīs=three
+četri=four

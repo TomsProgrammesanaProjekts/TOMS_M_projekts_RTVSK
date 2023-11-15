@@ -1,0 +1,10 @@
+viens=one
+divi=two
+trīs=three
+četri=four
+pieci=five
+seši=six
+septiņi=seven
+astoņi=eight
+deviņi=nine
+desmit=ten
